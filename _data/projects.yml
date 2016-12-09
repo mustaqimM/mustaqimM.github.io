@@ -1,0 +1,29 @@
+- name: 'Qt Project'
+  i18n: 'Qt'
+  url: '/malimM/qt_project'
+  img: 'static/img/landing/cpp.png'
+  desc: ''
+
+- name: 'Delphi Project'
+  i18n: 'Delphi'
+  url: '/malimM/delphi'
+  img: 'static/img/landing/delphi.png'
+  desc: "A simple program written in Object Pascal (Delphi)."
+
+- name: 'C# Project'
+  i18n: 'csharp'
+  url: '/malimM/csharp'
+  img: 'static/img/landing/csharp.png'
+  desc: "An application written in C#."
+
+- name: 'C Project'
+  i18n: 'c'
+  url: '/malimM/ProjectC'
+  img: 'static/img/landing/c.png'
+  desc: A simple API written in C.
+
+- name: 'rEFInd theme'
+  i18n: 'refind'
+  url: '/malimM/dm'
+  img: 'static/img/landing/os_refind.png'
+  desc: A theme for rEFInd.

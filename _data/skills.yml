@@ -1,0 +1,20 @@
+- name: C++
+  percentage: 90
+
+- name: C#
+  percentage: 80
+
+- name: Delphi
+  percentage: 80
+
+- name: Linux/Shell
+  percentage: 75
+
+- name: Python
+  percentage: 70
+
+- name: C
+  percentage: 65
+
+- name: HTML/CSS
+  percentage: 65

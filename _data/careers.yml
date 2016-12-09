@@ -1,0 +1,55 @@
+- name:
+    detail: C++
+    i18n: cpp
+  desc:
+    detail: Code primarily in C and C++.
+    i18n: career_des
+  date:
+    detail: Apr. 2016
+    i18n: career_date
+  job:
+    detail: C++ Developer
+    i18n: career_job
+  icon: fa-plus-square
+
+- name:
+    detail: C# and Delphi Projects
+    i18n: projects
+  desc:
+    detail: Wrote projects in Delphi and C#.
+    i18n: projects_des
+  date:
+    detail: Apr. 2014
+    i18n: projects_date
+  job:
+    detail: Dev Ops
+    i18n: projects_job
+  icon: fa-gamepad
+
+- name:
+    detail: uni
+    i18n: uni
+  desc:
+    detail: Began studying for a BSc in Computer Science..
+    i18n: uni_des
+  date:
+    detail: Aug. 2013
+    i18n: uni_date
+  job:
+    detail: Dev Ops
+    i18n: uni_job
+  icon: fa-cloud
+
+- name:
+    detail: Graduation
+    i18n: school
+  desc:
+    detail: I graduated from high school.
+    i18n: school_des
+  date:
+    detail: Dec. 2012
+    i18n: school_date
+  job:
+    detail: Student
+    i18n: school
+  icon: fa-book

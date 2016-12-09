@@ -1,0 +1,61 @@
+---
+layout: blog
+title: index
+permalink: /
+---
+
+<div class="navbar-wrapper">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right" id="i18_navbar">
+                {% for section in site.sections %}
+                    <li>
+                      <a class="page-scroll" href="#{{ section.id }}">
+                        <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
+                      </a>
+                    </li>
+                {% endfor %}
+
+                {% for language in site.languages %}
+                  <li>
+                    <a id="set_lang_{{ language.locale }}" class="btn btn-sm set_{{ language.locale }}" data-locale="{{ language.locale }}">
+                      <img src="{{ language.flag | prepend: site.baseurl }}" height="16px" width="16px">
+                    </a>
+                  </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+        <link rel="stylesheet" type="text/css" href="static/css/normalize.css" />
+        <link rel="stylesheet" type="text/css" href="static/css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="static/css/component.css" />
+        <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
+        <!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+                <div id="large-header" class="large-header">
+                        <canvas id="demo-canvas"></canvas>
+                        <h1 class="main-title">Mustaqim <span class="thin">Malim</span></h1>
+                </div>
+        <script src="static/js/TweenLite.min.js"></script>
+        <script src="static/js/EasePack.min.js"></script>
+        <script src="static/js/rAF.js"></script>
+        <script src="static/js/demo-1.js"></script>
+{% for section in site.sections %}
+  {% assign loopindex = forloop.index | modulo: 2 %}
+  <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0px;">
+    {% include sections/{{section.tpl}} %}
+  </section>
+{% endfor %}

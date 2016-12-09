@@ -1,0 +1,17 @@
+- name: Blog
+  href: '/blog/'
+
+- name: Code
+  href: '/code/'
+
+- name: Linux
+  href: '/linux/'
+
+- name: Security
+  href: '/security/'
+
+- name: Windows
+  href: '/windows/'
+
+- name: Other
+  href: '/other/'

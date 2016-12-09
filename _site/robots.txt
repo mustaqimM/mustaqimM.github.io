@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.mustaqim.me/sitemap.xml

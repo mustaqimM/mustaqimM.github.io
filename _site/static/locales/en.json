@@ -1,0 +1,55 @@
+{
+  "website":{
+    "title": "Mustaqim's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Links"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a Computer Science student."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "Qt": "A project written in C++ with Qt.",
+    "Delphi": "A simple program written in Object Pascal (Delphi).",
+    "csharp": "An application written in C#.",
+    "c": "A simple API written in C."
+  },
+  "career":{
+    "my_career": "My Career",
+    "career": "C++",
+    "career_des": "Code primarily in C and C++ with Qt.",
+    "career_date": "Apr. 2016",
+    "career_job": "C++ Developer",
+    "projects": "C# and Delphi Projects",
+    "projects_des": "Wrote projects in Delphi and C#.",
+    "projects_date": "Apr. 2014",
+    "projects_job": "Developed",
+    "uni": "Computer Science",
+    "uni_des": "Began studying for a BSc in Computer Science.",
+    "uni_date": "Aug. 2013",
+    "uni_job": "Computer Science",
+    "school": "Graduation",
+    "school_des": "I graduated from high school.",
+    "school_date": "Dec. 2012",
+    "school_job": "Student"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Links",
+    "view": "views"
+  }
+
+}
