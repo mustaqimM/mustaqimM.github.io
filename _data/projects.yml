@@ -27,3 +27,9 @@
   url: '/malimM/dm'
   img: 'static/img/landing/os_refind.png'
   desc: A theme for rEFInd.
+
+- name: 'Java Project'
+  i18n: 'c'
+  url: '/malimM/ProjectJava'
+  img: 'static/img/landing/c.png'
+  desc: A simple web applet written in Java.

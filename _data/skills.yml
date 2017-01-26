@@ -1,7 +1,7 @@
 - name: C++
   percentage: 90
 
-- name: C#
+- name: Java
   percentage: 80
 
 - name: Delphi
@@ -16,5 +16,5 @@
 - name: C
   percentage: 65
 
-- name: HTML/CSS
+- name: C#
   percentage: 65
