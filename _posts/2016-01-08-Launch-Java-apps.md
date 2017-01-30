@@ -6,7 +6,7 @@ desc: "Launch .jar"
 keywords: "linux,windows,java,jar"
 categories: [Linux,Windows]
 tags: [Java,jar,shell]
-icon: fa-lock
+icon: fa-terminal
 ---
 
 To launch a Java app, a .jar needs to be executed. A simple command would be ```java -jar JavaApp.jar```. You would also need to disown the
