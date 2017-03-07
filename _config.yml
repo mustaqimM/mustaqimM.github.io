@@ -10,12 +10,12 @@ url: "https://www.mustaqim.me"
 
 # author
 author:
-  name: 'Mustaqim'
+  name: 'mustaqim'
   first_name: 'Mustaqim'
   last_name: 'Malim'
   email: 'mustaqim@protonmail.com'
   twitter_username: 'mustaqim'
-  github_username: 'malimM'
+  github_username: 'mustaqimM'
   head_img: 'static/img/landing/MM.jpg'
   desc: 'I am a Computer Science student.'
 
