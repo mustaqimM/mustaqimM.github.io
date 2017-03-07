@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mustaqim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mustaqim.me
+  * I am mustaqim (https://keybase.io/mustaqim) on keybase.
+  * I have a public key ASD5k6UJ3u6HA4lOp5mfKbvothNVklRRfA4IwK1gbns1qwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f993a509deee8703894ea7999f29bbe8b613559254517c0e08c0ad606e7b35ab0a",
+            "host": "keybase.io",
+            "kid": "0120f993a509deee8703894ea7999f29bbe8b613559254517c0e08c0ad606e7b35ab0a",
+            "uid": "34dbea7eaa64ca22c4ff5de44e263b19",
+            "username": "mustaqim"
+        },
+        "service": {
+            "hostname": "mustaqim.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488890834,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488890779,
+        "hash": "d4a1ba9248d5660ea9db49e381d91190ab5beac32c49ffed532890fd52881e6390e974f2a33279fd319ff9f2ee1b7f455d1542e80a9aa6569fb05afc41ec3344",
+        "seqno": 943687
+    },
+    "prev": "4c24ba0fa7433440fc4b44742092c16a590cb63e1ed2a24c5f345f1e7c2111a9",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+ZOlCd7uhwOJTqeZnym76LYTVZJUUXwOCMCtYG57NasKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjk5M2E1MDlkZWVlODcwMzg5NGVhNzk5OWYyOWJiZThiNjEzNTU5MjU0NTE3YzBlMDhjMGFkNjA2ZTdiMzVhYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjk5M2E1MDlkZWVlODcwMzg5NGVhNzk5OWYyOWJiZThiNjEzNTU5MjU0NTE3YzBlMDhjMGFkNjA2ZTdiMzVhYjBhIiwidWlkIjoiMzRkYmVhN2VhYTY0Y2EyMmM0ZmY1ZGU0NGUyNjNiMTkiLCJ1c2VybmFtZSI6Im11c3RhcWltIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtdXN0YXFpbS5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg4ODkwODM0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODg4OTA3NzksImhhc2giOiJkNGExYmE5MjQ4ZDU2NjBlYTlkYjQ5ZTM4MWQ5MTE5MGFiNWJlYWMzMmM0OWZmZWQ1MzI4OTBmZDUyODgxZTYzOTBlOTc0ZjJhMzMyNzlmZDMxOWZmOWYyZWUxYjdmNDU1ZDE1NDJlODBhOWFhNjU2OWZiMDVhZmM0MWVjMzM0NCIsInNlcW5vIjo5NDM2ODd9LCJwcmV2IjoiNGMyNGJhMGZhNzQzMzQ0MGZjNGI0NDc0MjA5MmMxNmE1OTBjYjYzZTFlZDJhMjRjNWYzNDVmMWU3YzIxMTFhOSIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKpleNYpSk2jgwtm7Z17wPpRGyd64PqWdxRR2GAy8bFwqMqvIjMeNeZnSqbAHRLhN/5N8+YmGEGL2kr9heE0Dgmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD1NBddh7aKhwKKMBAhoS8/ItiJOlqDW5L9rw/VYwWqsaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mustaqim
+
+================================================================== 
